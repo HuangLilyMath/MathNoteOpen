@@ -1,2 +1,2 @@
-# MathNoteOpen-
+# MathNoteOpen
 Notes about PDEs
